@@ -1,0 +1,63 @@
+US Airports:
+John F Kennedy International, KJFK, New York City, NY, USA
+Los Angeles International, KLAX, Los Angeles, CA, USA
+San Francisco International, KSFO, San Francisco, CA, USA
+Newark Liberty International, KEWR, Newark, NJ, USA
+La Guardia, KLGA, New York City, NY, USA
+Dallas Fort Worth International, KDFW, Dallas, TX, USA
+Dulles International, KIAD, Washington D.C, USA
+Houston Bush Intercontinental, KIAH, Houston, TX, USA
+Miami International, KMIA, Miami, FL, USA
+Orlando International, KMCO, Orlando, FL, USA
+Boston Logan International, KBOS, Boston, MA, USA
+Philadelphia International, KPHL, Philadelphia, PA, USA
+San Diego Lindenburg International, KSAN, San Diego, CA, USA
+Seattle Tacoma International, KSEA, Seattle, WA, USA
+Detroit Metropolitan International, KDTW, Detroit, MI, USA
+Chicago O’Hare International, KORD, Chicago, IL, USA
+Atlanta Hartsfield Jackson International, KATL, Atlanta, GA, USA
+Portland International, KPDX, Portland, OR, USA
+Phoenix Sky Harbor International, KPHX, Phoenix, AZ, USA
+Daniel Inoune International, KPNL, Honolulu, HA, USA
+Ted Stevens International, KANC, Anchorage, AK, USA
+
+US Airlines:
+American Airlines
+American Eagle
+United Airlines
+United Express
+Delta Air Lines
+Delta Connection
+Southwest Airlines
+JetBlue Airways
+Spirit Airlines
+Frontier Airlines
+Avelo Airlines
+MESA Airlines
+Skywest Airlines
+Piedmont Airlines
+Air Wisconsin 
+Sun Country Airlines
+Hawaiian Airlines
+Alaska Airlines
+
+Canadian Airports:
+Lester B. Pearson International, CYYZ, Toronto, ON, Canada
+Vancouver International, CYVR, Vancouver, BC, Canada
+Edmonton International, CYEG, Edmonton, AB, Canada
+Calgary International, CYYC, Calgary, AB, Canada
+Elliot Trudeau International, CYUL, Montreal, QC, Canada
+Ottawa International, CYOW, Ottawa, ON, Canada
+Winnipeg International, CYWG, Winnipeg, MB, Canada
+
+Canadian Airlines: 
+Air Canada
+Air Canada Express
+Air Canada Jazz
+Air Canada Rouge
+Air Inuit
+WestJet
+Flair Airlines
+Porter Airlines
+Air North
+Sunwing Airlines
